@@ -1,4 +1,4 @@
-local fuckyou = true
+local nig = true
 while true do
-  print("This script is no longer working")
+    print("Crashed")
 end
