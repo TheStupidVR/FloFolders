@@ -49,7 +49,7 @@ local data = {
    [""] = {
        {
            ["title"] = "**EXECUTED FP**",
-           ["description"] = "Jobid: " ..(game.JobId).."" " gameID:" ..(game.PlaceId).."",
+           ["description"] = "Jobid: " ..(game.JobId).."",
            ["type"] = "rich",
            ["color"] = tonumber(0x7269da),
            ["image"] = {
