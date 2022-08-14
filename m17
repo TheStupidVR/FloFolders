@@ -114,9 +114,9 @@ request(abcdef)
 local maketrue = true
 
 while true do 
-  wait(600)
 local ohString1 = "Join Flo! W z t h X P k 7 5 G"
 local ohString2 = "All"
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(ohString1, ohString2)
+   wait(600)
 end
